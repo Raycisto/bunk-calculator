@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "GEHU ERP Enhancer",
+  "version": "2.0",
+  "description": "Smart attendance tracker with bunk calculator & class planner for GEHU ERP.",
+  "permissions": ["scripting", "activeTab", "storage"],
+  "host_permissions": ["https://student.gehu.ac.in/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://student.gehu.ac.in/*"],
+      "js": ["utils/calculator.js", "content.js"],
+      "css": ["styles/style.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_title": "GEHU ERP Enhancer"
+  }
+}
