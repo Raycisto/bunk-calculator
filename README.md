@@ -6,7 +6,7 @@
   <br>
   
 </p><p align="center">
-  <img src="Screenshot 2026-05-04 180907.png"  width="500">
+  <img src="WhatsApp Image 2026-05-04 at 6.17.48 PM (1).jpeg"  width="500">
   <br>
   
 </p>
