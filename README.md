@@ -56,7 +56,7 @@ $$\text{Needed} = \lceil (0.75 \times \text{Total} - \text{Attended}) / 0.25 \rc
 
 
 <p align="center">
-  <img src="Screenshot 2026-05-04 180907.png"  width="500">
+  <img src="Screenshot 2026-05-04 182947.png"  width="500">
   <br>
 </p>
 The extension provides three unique perspectives on your semester[cite: 1]:
