@@ -2,7 +2,7 @@
 
 **Bunk Calculator** is a native Android application and browser extension designed for students of **Graphic Era Hill University (GEHU)**[cite: 1]. It serves as an intelligent layer that sits on top of the university's legacy ERP portal, transforming flat data into actionable attendance insights[cite: 1].
 <p align="center">
-  <img src="Screenshot 2026-05-04 180907.png"  width="500">
+  <img src="WhatsApp Image 2026-05-04 at 6.17.48 PM.jpeg"  width="500">
   <br>
   
 </p><p align="center">
